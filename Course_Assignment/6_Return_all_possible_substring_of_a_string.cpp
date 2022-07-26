@@ -1,4 +1,4 @@
-//Return substring of a String
+//Return all possible substring of a String
 
 #include<bits/stdc++.h>
 using namespace std;
