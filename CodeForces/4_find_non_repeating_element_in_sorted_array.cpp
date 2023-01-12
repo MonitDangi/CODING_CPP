@@ -30,6 +30,5 @@ int main(){
                 low = mid+1;
             }
         }
-        return 0;
     }
 }
